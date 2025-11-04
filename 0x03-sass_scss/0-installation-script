@@ -1,0 +1,12 @@
+1. Navigated into my repository:
+   cd ~/Desktop/ALX/alx-intermediate-frontend
+
+2. Created a new directory:
+   mkdir 0x03-sass_scss
+   cd 0x03-sass_scss
+
+3. Installed SASS version 3.7.4 using npm:
+   npm install sass -v 3.7.4
+
+4. Verified the installation:
+   npx sass --version
